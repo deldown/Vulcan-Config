@@ -1,5 +1,5 @@
-Du kannst die Config nutzen verändern wie du willst!
+Du kannst die Config nutzen und verändern wie du willst!
 
 Empfholen:
 GrimAC + Vulcan (mit der Config)
-optional: Matrix oder NCP (oder beide und am besten mit einer Custom config keine empfhlungen)
+Optional: Matrix oder NCP (oder beide und am besten mit einer Custom Config keine Empfehlungen)
